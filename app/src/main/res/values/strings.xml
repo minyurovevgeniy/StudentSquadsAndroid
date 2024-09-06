@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Squads</string>
+    <string name="refresh">Обновить</string>
+    <string name="title_activity_squad_info">SquadInfo</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
